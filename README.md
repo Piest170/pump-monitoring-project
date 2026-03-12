@@ -1,5 +1,10 @@
 # Smart Factory Pump Monitoring
 
+## Live Demo
+
+Streamlit Dashboard:
+https://pump-monitoring-project.streamlit.app
+
 ## 📌 Project Overview
 
 This project demonstrates a **Predictive Maintenance System** for industrial pumps using sensor data.
