@@ -39,7 +39,7 @@ Pipeline steps:
 
 Example monitoring dashboard:
 
-<img src="images/dashboard.png" width="900">
+<img width="1918" height="864" alt="Screenshot 2026-03-12 112907" src="https://github.com/user-attachments/assets/fa122414-1f7b-4f27-81d3-1993853ec448" />
 
 The dashboard provides:
 
@@ -63,7 +63,7 @@ Data Processing
 
 Machine Learning
 
-* scikit-learn
+* scikit-learn(RandomForest)
 
 Visualization
 
