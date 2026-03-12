@@ -65,6 +65,7 @@ Programming Language
 Data Processing
 
 * pandas
+* numpy
 
 Machine Learning
 
