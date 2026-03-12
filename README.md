@@ -1,6 +1,6 @@
 # Smart Factory Pump Monitoring
 
-## Live Demo
+## 🔴 Live Demo
 
 Streamlit Dashboard:
 [https://pump-monitoring-project.streamlit.app](https://pump-monitoring-project-f4hweseaf6a4nnttvsqzna.streamlit.app/)
