@@ -45,6 +45,8 @@ Pipeline steps:
 Example monitoring dashboard:
 
 <img width="1918" height="864" alt="Screenshot 2026-03-12 112907" src="https://github.com/user-attachments/assets/fa122414-1f7b-4f27-81d3-1993853ec448" />
+<img width="1919" height="599" alt="Screenshot 2026-03-12 131723" src="https://github.com/user-attachments/assets/0ce6df9d-62e4-4752-b646-6f3b2b639295" />
+<img width="1919" height="525" alt="Screenshot 2026-03-12 131855" src="https://github.com/user-attachments/assets/7a51130d-a648-4b01-ae65-dc36144978cb" />
 
 The dashboard provides:
 
