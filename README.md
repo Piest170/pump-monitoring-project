@@ -139,16 +139,4 @@ README.md
 sensor_sample.csv
 processed_sensor.csv
 sensor_importance.csv
-
-images/
-  dashboard.png
 ```
-
----
-
-## Future Improvements
-
-* Time-series failure prediction
-* Advanced anomaly detection models
-* Real-time data streaming
-* Deployment with cloud infrastructure
